@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "313c61c20f2b47f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b41722dc14254cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "307594f04aed9e5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/2023年.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "793f9501c253af36",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aee93c0804090101",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cdbcd5a590cc431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c0904e5513ae02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7980e9593905309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "903f1ec92d99bbfc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "baa4a5b18d8e2f08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a90521b7c275367d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2419bb7cc819007d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994781a0051a860c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/2023年.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e00f44ee82f57619",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/2023年.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5867c3ea2810757d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "494de3c33ceaace2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/2023年.md"
+              }
+            }
+          },
+          {
+            "id": "3e635d56e21494a6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "90c0904e5513ae02",
+  "lastOpenFiles": [
+    "public/css/style.css",
+    "public/css",
+    "public/js/script.js",
+    "public/js",
+    "public/archives/2023/page/2/index.html",
+    "public/page/3/index.html",
+    "public/archives/2023/02/index.html",
+    "public/archives/page/3/index.html",
+    "public/tags/年度小结/index.html",
+    "public/index.html",
+    "public/page/2/index.html",
+    "public/icons-512.png",
+    "public/icons-192.png",
+    "未命名.canvas",
+    "source/_posts/谈谈计划“复活”.md",
+    "source/_posts/初窥门径.md",
+    "source/_posts/2023年.md",
+    "source/_posts/高一最后一个假期.md",
+    "source/_posts/复活.md",
+    "source/_posts/断墨寻径.md",
+    "Chic/README-CN.md",
+    "source/_posts/否极泰来.md",
+    "source/_posts/第一篇Blog.md",
+    "source/_posts/藏书室.md",
+    "source/_posts/关于最近.md",
+    "source/_posts/好烦.md",
+    "source/_posts/花园.md",
+    "source/_posts/同桌.md",
+    "source/_posts/我还好吗.md",
+    "source/_posts/我想去黄河边.md",
+    "source/_posts/夏季学考成绩.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/我们痛苦流涕，失衡中相拥.md",
+    "source/_posts/我弄丢了一本书.md",
+    "source/_obsidian/Post Template.md",
+    "source/_posts/高一十班.md",
+    "source/_posts/四月，八班.md",
+    "source/_posts/南京.md",
+    "5bcc26704d83f34c.jpg",
+    "012CFC8D.png",
+    "未命名.md",
+    "1681573606439.jpeg",
+    "76855fe8d01ca329.jpg",
+    "4099297d9093a42.jpg",
+    "2858eb5df5669c8c.jpg",
+    "public/css/images/banner.jpg",
+    "public/css/fonts/fontawesome-webfont.svg"
+  ]
+}
